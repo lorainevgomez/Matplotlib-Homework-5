@@ -53,11 +53,15 @@ Create the second pie chart with Matplotlib's pyplot methods.
 2.Using Matplotlib, generate a box plot of the final tumor volume for all four treatment regimens. Highlight any potential outliers in the plot by changing their color and style.
 
 #Create a Line Plot and a Scatter Plot
+
+
 1.Select a mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 
 2.Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
 #Calculate Correlation and Regression
+
+
 1.Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 
 2.Plot the linear regression model on top of the previous scatter plot.
