@@ -2,16 +2,20 @@
 THREE OBSERVATIONS:
 
 
-1.
+1. In the summary statistics comparing Capomulin to every other drug regimen. The only other drug that comes close in mean, median, variance, std, sem is the Ramicane drug. They are both at the lowest tumor volume for each statistics. 
 
-2.
+2. After viewing the result of the pie chart, the distribution of sex between the mice are about even for female and male testing. 
 
-3.
+3. The correlation coefficient between mouse weight and average tumor volume for the Capomulin regimen is 0.84, displaying a strong and significant positive correlation.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSTRUCTIONS
+
+
 #Prepare the Data
+
+
 1.Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
 
 2.Display the number of unique mice IDs in the data, and then check for any mouse ID with duplicate time points. Display the data associated with that mouse ID, and then create a new DataFrame where this data is removed. Use this cleaned DataFrame for the remaining steps.
