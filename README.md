@@ -1,5 +1,7 @@
 # Matplotlib-Homework-5
 THREE OBSERVATIONS:
+
+
 1.
 
 2.
@@ -7,7 +9,7 @@ THREE OBSERVATIONS:
 3.
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSTRUCTIONS
 #Prepare the Data
 1.Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
@@ -43,7 +45,8 @@ Create the second pie chart with Matplotlib's pyplot methods.
 
   Create a list that holds the treatment names as well as a second, empty list to hold the tumor volume data.
 
-    Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor     volumes for each drug to the empty list.
+  Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment.
+  Append the resulting final tumor volumes for each drug to the empty list.
 
   Determine outliers by using the upper and lower bounds, and then print the results.
 
